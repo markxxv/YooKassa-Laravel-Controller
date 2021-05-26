@@ -4,7 +4,7 @@
 
 Для работы контроллера вам необходимо:
 
-1. Установить (https://github.com/yoomoney/yookassa-sdk-php)[Yookassa SDK PHP]
+1. Установить [Yookassa SDK PHP](https://github.com/yoomoney/yookassa-sdk-php)
 ```
 composer require yoomoney/yookassa-sdk-php
 ```
